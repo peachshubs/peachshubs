@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peachshubs
 - 👀 I’m interested in UI/UX Design, Web Development
-- 🌱 I’m currently learning C++, MySQL
+- 🌱 I’m currently learning Node.js!
 - 💞️ I’m looking to collaborate on any projects that require solutions to problems or design input
 - 📫 How to reach me: shubhikabehera05@gmail.com / shubhika25behera@gmail.com
 - 😄 Pronouns: she/her
