@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/d8/66/4f/d8664f350d7f3812a7d53c1d3f25f520.jpg" alt="Logo" />
+  <img src="https://i.pinimg.com/736x/90/03/87/900387abdc1854f66046b50cc5fcfdd9.jpg" alt="Logo" />
   
 </p>
 
@@ -8,11 +8,7 @@
 
 🌳 Here's some of my projects:
   
-🌸 [Tic Tac Toe](https://github.com/peachshubs/tictactoe)
-
-🌸 [Treasure Hunt](https://github.com/peachshubs/treasure-hunt-game)
-
-🌸 [Diabetics & Health Checker](https://github.com/peachshubs/nutrition-site-page)
+🌸 [Tic Tac Toe](https://github.com/peachshubs/tictactoe)  🌸 [Treasure Hunt](https://github.com/peachshubs/treasure-hunt-game)  🌸 [Diabetics & Health Checker](https://github.com/peachshubs/nutrition-site-page)
 
 🌱 I’m currently learning **React, Node and Angular**
 
