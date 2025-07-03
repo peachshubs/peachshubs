@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a6/e8/c3/a6e8c32546ae4a5c6417164fdac0af2a.jpg" alt="Logo" />
+  <img src="https://i.pinimg.com/736x/d8/66/4f/d8664f350d7f3812a7d53c1d3f25f520.jpg" alt="Logo" />
+  
 </p>
 
 <h1 align="center">🍑 Hi! I'm peachshubs. Welcome! 🍑</h1>
