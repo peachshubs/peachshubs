@@ -6,15 +6,15 @@
 <h1 align="center">🍑 Hi! I'm peachshubs. Welcome! 🍑</h1>
 <h3 align="center">An enthusiastic Software Developer and Graphic Designer on the side!</h3>
 
-🌳 Here's some of my projects:
+🌳 Here's some of my projects! Take a look:
   
 🌸 [Tic Tac Toe](https://github.com/peachshubs/tictactoe)  🌸 [Treasure Hunt](https://github.com/peachshubs/treasure-hunt-game)  🌸 [Diabetics & Health Checker](https://github.com/peachshubs/nutrition-site-page)
 
-🌱 I’m currently learning **React, Node and Angular**
+🌱 I’m currently learning: **React, Node and Angular**
 
-📫 How to reach me **shubhikabehera05@gmail.com**
+📫 How to reach me: **shubhikabehera05@gmail.com**
 
-⚡ Fun fact **I'm pretty good at graphic designing!**
+⚡ Fun fact: **My first ever 'code' was done on Scratch!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
